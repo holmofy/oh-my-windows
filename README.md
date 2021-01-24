@@ -10,6 +10,8 @@ Windows Developer
 
 * [Scoop](https://github.com/lukesampson/scoop)  ![](https://img.shields.io/github/stars/lukesampson/scoop)
 
+推荐用scoop
+
 ```sh
 # Configure Scoop to install global programs to a Custom Directory by changing SCOOP_GLOBAL
 $env:SCOOP_GLOBAL='F:\GlobalScoopApps'
@@ -32,3 +34,10 @@ iwr -useb get.scoop.sh | iex
  * [terminus](https://github.com/Eugeny/terminus) ![](https://img.shields.io/github/stars/Eugeny/terminus)
  
  * [FluentTerminal](https://github.com/felixse/FluentTerminal) ![](https://img.shields.io/github/stars/felixse/FluentTerminal)
+ 
+ 推荐microsoft/terminal
+ 
+ ```sh
+scoop bucket add extras
+scoop install windows-terminal
+ ```
