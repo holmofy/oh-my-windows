@@ -35,6 +35,8 @@ iwr -useb get.scoop.sh | iex
  
  * [FluentTerminal](https://github.com/felixse/FluentTerminal) ![](https://img.shields.io/github/stars/felixse/FluentTerminal)
  
+ > https://github.com/Awesome-Windows/Awesome#terminal
+ 
  推荐microsoft/terminal
  
  ```sh
