@@ -54,4 +54,5 @@ scoop bucket add java              # https://github.com/scoopinstaller/Java
 scoop install adopt8-hotspot       # adopt-jdk
 scoop bucket add nerd-fonts        # https://github.com/matthewjberger/scoop-nerd-fonts
 scoop bucket add jetbrains         # https://github.com/Ash258/Scoop-JetBrains
+scoop bucket add nonportable       # https://github.com/TheRandomLabs/scoop-nonportable
 ```
