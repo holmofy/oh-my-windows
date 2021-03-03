@@ -48,6 +48,7 @@ scoop install windows-terminal
 
 ```sh
 scoop install git                  # PortableGit-2.30.1-64-bit.7z.exe
+scoop install powertoys            # https://github.com/microsoft/PowerToys
 scoop bucket add extras            # https://github.com/lukesampson/scoop-extras
 scoop install typora               # markdown编辑器
 scoop bucket add java              # https://github.com/scoopinstaller/Java
