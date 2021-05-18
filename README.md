@@ -58,4 +58,5 @@ scoop bucket add nerd-fonts        # https://github.com/matthewjberger/scoop-ner
 scoop bucket add jetbrains         # https://github.com/Ash258/Scoop-JetBrains
 scoop bucket add nonportable       # https://github.com/TheRandomLabs/scoop-nonportable
 ```
+
 https://github.com/NickeManarin/ScreenToGif
