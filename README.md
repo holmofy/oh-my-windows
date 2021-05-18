@@ -10,8 +10,9 @@ Windows Developer
 
 * [Scoop](https://github.com/lukesampson/scoop)  ![](https://img.shields.io/github/stars/lukesampson/scoop)
 
-推荐用scoop
+推荐用scoop或choco
 
+### install scoop
 ```sh
 # Configure Scoop to install global programs to a Custom Directory by changing SCOOP_GLOBAL
 $env:SCOOP_GLOBAL='F:\GlobalScoopApps'
@@ -57,3 +58,4 @@ scoop bucket add nerd-fonts        # https://github.com/matthewjberger/scoop-ner
 scoop bucket add jetbrains         # https://github.com/Ash258/Scoop-JetBrains
 scoop bucket add nonportable       # https://github.com/TheRandomLabs/scoop-nonportable
 ```
+https://github.com/NickeManarin/ScreenToGif
