@@ -60,3 +60,5 @@ scoop bucket add nonportable       # https://github.com/TheRandomLabs/scoop-nonp
 ```
 
 https://github.com/NickeManarin/ScreenToGif
+
+https://github.com/QL-Win/QuickLook
