@@ -60,10 +60,10 @@ scoop install windows-terminal
 scoop bucket add extras            # https://github.com/lukesampson/scoop-extras
 scoop bucket add versions          # https://github.com/scoopinstaller/versions
 scoop bucket add java              # https://github.com/scoopinstaller/Java
-scoop bucket add nerd-fonts        # https://github.com/matthewjberger/scoop-nerd-fonts
 scoop bucket add jetbrains         # https://github.com/Ash258/Scoop-JetBrains
 scoop bucket add nonportable       # https://github.com/TheRandomLabs/scoop-nonportable
 scoop bucket add nightlies         # https://github.com/scoopinstaller/nightlies
+scoop bucket add nerd-fonts        # https://github.com/matthewjberger/scoop-nerd-fonts
 ```
 
 **Recommended app**
