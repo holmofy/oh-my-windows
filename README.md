@@ -1,5 +1,7 @@
 # oh-my-windows
 
+vim, tmux, zsh refer to [oh-my-mac](https://github.com/holmofy/oh-my-mac)
+
 Windows Developer
 
 ## 1. Windows Package Manager
