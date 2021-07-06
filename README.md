@@ -41,12 +41,14 @@ iwr -useb get.scoop.sh | iex
  
  > https://github.com/Awesome-Windows/Awesome#terminal
  
- 推荐microsoft/terminal
+推荐microsoft/terminal
  
  ```sh
 scoop bucket add extras
 scoop install windows-terminal
  ```
+
+> 将git bash添加到windows-terminal中：https://stackoverflow.com/questions/56839307/adding-git-bash-to-the-new-windows-terminal
  
 ## 3. App
 
