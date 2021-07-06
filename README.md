@@ -72,6 +72,7 @@ scoop install git                  # PortableGit-2.30.1-64-bit.7z.exe
 scoop install powertoys            # https://github.com/microsoft/PowerToys
 scoop install typora               # markdown编辑器
 scoop install adopt8-hotspot       # adopt-jdk
+scoop install lazygit              # https://github.com/jesseduffield/lazygit
 ```
 
 > awesome scoop: https://github.com/tapannallan/awesome-scoop
