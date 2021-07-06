@@ -70,6 +70,7 @@ scoop bucket add nerd-fonts        # https://github.com/matthewjberger/scoop-ner
 ```sh
 scoop install unxutils             # GNU utilities for Win32.
 scoop install git                  # PortableGit-2.30.1-64-bit.7z.exe
+scoop install pasteboard           # https://github.com/uzxmx/pasteboard
 scoop install powertoys            # https://github.com/microsoft/PowerToys
 scoop install typora               # markdown编辑器
 scoop install adopt8-hotspot       # adopt-jdk
