@@ -25,6 +25,7 @@ iwr -useb get.scoop.sh | iex
 ```
 
 > 安装完成后如果出现命令找不到，先检查一下环境变量是否加到Path中。
+> 如果用scoop安装软件找不到，可以`scoop update`一下
 
 ## 2. Terminal
 
