@@ -83,6 +83,7 @@ scoop install quicklook            # https://github.com/QL-Win/QuickLook
 scoop install shadowsocks          # https://github.com/shadowsocks/shadowsocks-windows
 scoop install v2rayn               # https://github.com/2dust/v2rayN
 scoop install tldr                 # Interactive tldr pages
+scoop install docker               # Docker容器
 ```
 
 > awesome scoop: https://github.com/tapannallan/awesome-scoop
