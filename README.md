@@ -76,6 +76,8 @@ scoop install adopt8-hotspot       # adopt-jdk
 scoop install lazygit              # https://github.com/jesseduffield/lazygit
 scoop install oh-my-posh3          # https://github.com/jandedobbeleer/oh-my-posh
 scoop install posh-git             # https://github.com/dahlbyk/posh-git
+scoop install switchhosts          # https://github.com/oldj/SwitchHosts
+scoop install vscode               # https://github.com/Microsoft/vscode
 ```
 
 > awesome scoop: https://github.com/tapannallan/awesome-scoop
