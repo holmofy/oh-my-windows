@@ -73,6 +73,7 @@ scoop install powertoys            # https://github.com/microsoft/PowerToys
 scoop install typora               # markdown编辑器
 scoop install adopt8-hotspot       # adopt-jdk
 scoop install lazygit              # https://github.com/jesseduffield/lazygit
+scoop install oh-my-posh3          # https://github.com/jandedobbeleer/oh-my-posh
 ```
 
 > awesome scoop: https://github.com/tapannallan/awesome-scoop
