@@ -24,6 +24,8 @@ Invoke-Expression (New-Object System.Net.WebClient).DownloadString('https://get.
 iwr -useb get.scoop.sh | iex
 ```
 
+> 安装完成后如果出现命令找不到，先检查一下环境变量是否加到Path中。
+
 ## 2. Terminal
 
  * [microsoft/terminal](https://github.com/microsoft/terminal)  ![](https://img.shields.io/github/stars/microsoft/terminal)
@@ -47,16 +49,22 @@ scoop install windows-terminal
  
 ## 3. App
 
+**app bucket**
+
+```sh
+scoop bucket add nerd-fonts        # https://github.com/matthewjberger/scoop-nerd-fonts
+scoop bucket add jetbrains         # https://github.com/Ash258/Scoop-JetBrains
+```
+
+**Recommended app**
 ```sh
 scoop install git                  # PortableGit-2.30.1-64-bit.7z.exe
+scoop bucket add nonportable       # https://github.com/TheRandomLabs/scoop-nonportable
 scoop install powertoys            # https://github.com/microsoft/PowerToys
 scoop bucket add extras            # https://github.com/lukesampson/scoop-extras
 scoop install typora               # markdown编辑器
 scoop bucket add java              # https://github.com/scoopinstaller/Java
 scoop install adopt8-hotspot       # adopt-jdk
-scoop bucket add nerd-fonts        # https://github.com/matthewjberger/scoop-nerd-fonts
-scoop bucket add jetbrains         # https://github.com/Ash258/Scoop-JetBrains
-scoop bucket add nonportable       # https://github.com/TheRandomLabs/scoop-nonportable
 ```
 
 https://github.com/NickeManarin/ScreenToGif
