@@ -52,20 +52,24 @@ scoop install windows-terminal
 **app bucket**
 
 ```sh
+scoop bucket add extras            # https://github.com/lukesampson/scoop-extras
+scoop bucket add versions          # https://github.com/scoopinstaller/versions
+scoop bucket add java              # https://github.com/scoopinstaller/Java
 scoop bucket add nerd-fonts        # https://github.com/matthewjberger/scoop-nerd-fonts
 scoop bucket add jetbrains         # https://github.com/Ash258/Scoop-JetBrains
+scoop bucket add nonportable       # https://github.com/TheRandomLabs/scoop-nonportable
+scoop bucket add nightlies         # https://github.com/scoopinstaller/nightlies
 ```
 
 **Recommended app**
 ```sh
 scoop install git                  # PortableGit-2.30.1-64-bit.7z.exe
-scoop bucket add nonportable       # https://github.com/TheRandomLabs/scoop-nonportable
 scoop install powertoys            # https://github.com/microsoft/PowerToys
-scoop bucket add extras            # https://github.com/lukesampson/scoop-extras
 scoop install typora               # markdown编辑器
-scoop bucket add java              # https://github.com/scoopinstaller/Java
 scoop install adopt8-hotspot       # adopt-jdk
 ```
+
+> awesome scoop: https://github.com/tapannallan/awesome-scoop
 
 https://github.com/NickeManarin/ScreenToGif
 
