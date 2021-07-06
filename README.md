@@ -78,10 +78,10 @@ scoop install oh-my-posh3          # https://github.com/jandedobbeleer/oh-my-pos
 scoop install posh-git             # https://github.com/dahlbyk/posh-git
 scoop install switchhosts          # https://github.com/oldj/SwitchHosts
 scoop install vscode               # https://github.com/Microsoft/vscode
+scoop install screentogif          # https://github.com/NickeManarin/ScreenToGif
+scoop install quicklook            # https://github.com/QL-Win/QuickLook
 ```
 
 > awesome scoop: https://github.com/tapannallan/awesome-scoop
 
-https://github.com/NickeManarin/ScreenToGif
 
-https://github.com/QL-Win/QuickLook
