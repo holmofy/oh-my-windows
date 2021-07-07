@@ -90,8 +90,10 @@ nvm node_mirror <url>              # set node mirror for china
 nvm npm_mirror <url>               # set npm-cli mirror for china
 nvm install <version>              # nvm install node
 nvm use <version>                  # nvm use node
+npm install -g nrm                 # npm registry manager
 scoop install pyenv                # https://github.com/pyenv-win/pyenv-win
 pyenv install <version>            # install python
+pip install mycli                  # https://github.com/dbcli/mycli
 ```
 
 > awesome scoop: https://github.com/tapannallan/awesome-scoop
