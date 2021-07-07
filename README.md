@@ -85,6 +85,13 @@ scoop install shadowsocks          # https://github.com/shadowsocks/shadowsocks-
 scoop install v2rayn               # https://github.com/2dust/v2rayN
 scoop install tldr                 # Interactive tldr pages
 scoop install docker               # Docker容器
+scoop install nvm                  # node version manager: https://github.com/coreybutler/nvm-windows
+nvm node_mirror <url>              # set node mirror for china
+nvm npm_mirror <url>               # set npm-cli mirror for china
+nvm install <version>              # nvm install node
+nvm use <version>                  # nvm use node
+scoop install pyenv                # https://github.com/pyenv-win/pyenv-win
+pyenv install <version>            # install python
 ```
 
 > awesome scoop: https://github.com/tapannallan/awesome-scoop
