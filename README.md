@@ -66,23 +66,15 @@ scoop bucket add nightlies         # https://github.com/scoopinstaller/nightlies
 scoop bucket add nerd-fonts        # https://github.com/matthewjberger/scoop-nerd-fonts
 ```
 
-**Recommended app**
+**Cli app**
 ```sh
 scoop install unxutils             # GNU utilities for Win32.
 scoop install git                  # PortableGit-2.30.1-64-bit.7z.exe
 scoop install pasteboard           # https://github.com/uzxmx/pasteboard
-scoop install powertoys            # https://github.com/microsoft/PowerToys
-scoop install typora               # markdown编辑器
-scoop install adopt8-hotspot       # adopt-jdk
 scoop install lazygit              # https://github.com/jesseduffield/lazygit
 scoop install oh-my-posh3          # https://github.com/jandedobbeleer/oh-my-posh
 scoop install posh-git             # https://github.com/dahlbyk/posh-git
-scoop install switchhosts          # https://github.com/oldj/SwitchHosts
-scoop install vscode               # https://github.com/Microsoft/vscode
-scoop install screentogif          # https://github.com/NickeManarin/ScreenToGif
-scoop install quicklook            # https://github.com/QL-Win/QuickLook
-scoop install shadowsocks          # https://github.com/shadowsocks/shadowsocks-windows
-scoop install v2rayn               # https://github.com/2dust/v2rayN
+scoop install adopt8-hotspot       # adopt-jdk
 scoop install tldr                 # Interactive tldr pages
 scoop install docker               # Docker容器
 scoop install nvm                  # node version manager: https://github.com/coreybutler/nvm-windows
@@ -94,6 +86,20 @@ npm install -g nrm                 # npm registry manager
 scoop install pyenv                # https://github.com/pyenv-win/pyenv-win
 pyenv install <version>            # install python
 pip install mycli                  # https://github.com/dbcli/mycli
+```
+
+> bash completion: https://github.com/scop/bash-completion
+
+**Gui app**
+```sh
+scoop install powertoys            # https://github.com/microsoft/PowerToys
+scoop install typora               # markdown编辑器
+scoop install switchhosts          # https://github.com/oldj/SwitchHosts
+scoop install vscode               # https://github.com/Microsoft/vscode
+scoop install screentogif          # https://github.com/NickeManarin/ScreenToGif
+scoop install quicklook            # https://github.com/QL-Win/QuickLook
+scoop install shadowsocks          # https://github.com/shadowsocks/shadowsocks-windows
+scoop install v2rayn               # https://github.com/2dust/v2rayN
 ```
 
 > awesome scoop: https://github.com/tapannallan/awesome-scoop
