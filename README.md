@@ -76,6 +76,7 @@ scoop install oh-my-posh3          # https://github.com/jandedobbeleer/oh-my-pos
 scoop install posh-git             # https://github.com/dahlbyk/posh-git
 scoop install adopt8-hotspot       # adopt-jdk
 scoop install tldr                 # Interactive tldr pages
+scoop install cht                  # cli cheat sheet
 scoop install docker               # Docker容器
 scoop install nvm                  # node version manager: https://github.com/coreybutler/nvm-windows
 nvm node_mirror <url>              # set node mirror for china
