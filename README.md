@@ -68,7 +68,8 @@ scoop bucket add nerd-fonts        # https://github.com/matthewjberger/scoop-ner
 
 **Cli app**
 ```sh
-scoop install unxutils             # GNU utilities for Win32.
+scoop install unxutils             # GNU utilities for Win32
+scoop install coreutils            # GNU utilities for Windows mingw
 scoop install git                  # PortableGit-2.30.1-64-bit.7z.exe
 scoop install pasteboard           # https://github.com/uzxmx/pasteboard
 scoop install lazygit              # https://github.com/jesseduffield/lazygit
