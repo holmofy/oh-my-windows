@@ -94,7 +94,7 @@ pip install mycli                  # https://github.com/dbcli/mycli
 
 **Gui app**
 ```sh
-scoop install zeal                 # Document Browser
+scoop install zeal                 # Document Browser: https://github.com/search?q=docset+feed
 scoop install powertoys            # https://github.com/microsoft/PowerToys
 scoop install typora               # markdown编辑器
 scoop install switchhosts          # https://github.com/oldj/SwitchHosts
