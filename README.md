@@ -88,6 +88,7 @@ npm install -g nrm                 # npm registry manager
 scoop install pyenv                # https://github.com/pyenv-win/pyenv-win
 pyenv install <version>            # install python
 pip install mycli                  # https://github.com/dbcli/mycli
+pip install clickhouse-cli         # https://github.com/hatarist/clickhouse-cli
 ```
 
 > bash completion: https://github.com/scop/bash-completion
