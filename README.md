@@ -92,7 +92,7 @@ pip install clickhouse-cli         # https://github.com/hatarist/clickhouse-cli
 ```
 
 > bash completion: https://github.com/scop/bash-completion
-
+https://github.com/RReverser/WiFi-Password
 **Gui app**
 ```sh
 scoop install zeal                 # Document Browser: https://github.com/search?q=docset+feed
