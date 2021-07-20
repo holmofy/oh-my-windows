@@ -98,7 +98,7 @@ go get -u github.com/birdayz/kaf/cmd/kaf  # kafka cli
 ```
 
 > bash completion: https://github.com/scop/bash-completion
-https://github.com/RReverser/WiFi-Password
+
 **Gui app**
 ```sh
 scoop install zeal                 # Document Browser: https://github.com/search?q=docset+feed
@@ -114,4 +114,6 @@ scoop install v2rayn               # https://github.com/2dust/v2rayN
 
 > awesome scoop: https://github.com/tapannallan/awesome-scoop
 
+**other tools**
+https://github.com/RReverser/WiFi-Password
 
