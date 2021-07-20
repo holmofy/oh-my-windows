@@ -93,6 +93,7 @@ pip install mycli                  # https://github.com/dbcli/mycli
 pip install clickhouse-cli         # https://github.com/hatarist/clickhouse-cli
 # golang
 scoop install go
+go env -w GOPROXY=https://goproxy.cn
 go get -u github.com/birdayz/kaf/cmd/kaf  # kafka cli
 ```
 
