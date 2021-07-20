@@ -79,16 +79,21 @@ scoop install adopt8-hotspot       # adopt-jdk
 scoop install tldr                 # Interactive tldr pages
 scoop install cht                  # cli cheat sheet
 scoop install docker               # Docker容器
+# node.js
 scoop install nvm                  # node version manager: https://github.com/coreybutler/nvm-windows
 nvm node_mirror <url>              # set node mirror for china
 nvm npm_mirror <url>               # set npm-cli mirror for china
 nvm install <version>              # nvm install node
 nvm use <version>                  # nvm use node
 npm install -g nrm                 # npm registry manager
+# python
 scoop install pyenv                # https://github.com/pyenv-win/pyenv-win
 pyenv install <version>            # install python
 pip install mycli                  # https://github.com/dbcli/mycli
 pip install clickhouse-cli         # https://github.com/hatarist/clickhouse-cli
+# golang
+scoop install go
+go get -u github.com/birdayz/kaf/cmd/kaf  # kafka cli
 ```
 
 > bash completion: https://github.com/scop/bash-completion
