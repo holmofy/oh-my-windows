@@ -91,6 +91,7 @@ scoop install pyenv                # https://github.com/pyenv-win/pyenv-win
 pyenv install <version>            # install python
 pip install mycli                  # https://github.com/dbcli/mycli
 pip install clickhouse-cli         # https://github.com/hatarist/clickhouse-cli
+pip install iredis
 # golang
 scoop install go
 go env -w GOPROXY=https://goproxy.cn
