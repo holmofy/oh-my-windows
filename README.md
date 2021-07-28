@@ -64,6 +64,7 @@ scoop bucket add jetbrains         # https://github.com/Ash258/Scoop-JetBrains
 scoop bucket add nonportable       # https://github.com/TheRandomLabs/scoop-nonportable
 scoop bucket add nightlies         # https://github.com/scoopinstaller/nightlies
 scoop bucket add nerd-fonts        # https://github.com/matthewjberger/scoop-nerd-fonts
+scoop bucket add bear https://github.com/AStupidBear/scoop-bear
 ```
 
 **Cli app**
