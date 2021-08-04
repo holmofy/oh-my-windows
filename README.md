@@ -105,6 +105,7 @@ go get -u github.com/birdayz/kaf/cmd/kaf  # kafka cli
 
 **Gui app**
 ```sh
+# https://zealusercontributions.vercel.app/
 scoop install zeal                 # Document Browser: https://github.com/search?q=docset+feed
 scoop install powertoys            # https://github.com/microsoft/PowerToys
 scoop install typora               # markdown编辑器
