@@ -79,10 +79,12 @@ scoop install pasteboard           # https://github.com/uzxmx/pasteboard
 scoop install lazygit              # https://github.com/jesseduffield/lazygit
 scoop install oh-my-posh3          # https://github.com/jandedobbeleer/oh-my-posh
 scoop install posh-git             # https://github.com/dahlbyk/posh-git
-scoop install adopt8-hotspot       # adopt-jdk
 scoop install tldr                 # Interactive tldr pages
 scoop install cht                  # cli cheat sheet
 scoop install docker               # Docker容器
+# java
+scoop install adopt8-hotspot       # adopt-jdk
+scoop install jmc                  # java mission control
 # node.js
 scoop install nvm                  # node version manager: https://github.com/coreybutler/nvm-windows
 nvm node_mirror <url>              # set node mirror for china
