@@ -74,6 +74,7 @@ scoop bucket add apps https://gitee.com/kkzzhizhou/scoop-apps
 scoop install unxutils             # GNU utilities for Win32: http://unxutils.sourceforge.net/
 scoop install coreutils            # GNU utilities for Windows mingw
 scoop install git                  # PortableGit-2.30.1-64-bit.7z.exe
+scoop install gcc                  # GCC compiler
 scoop install pasteboard           # https://github.com/uzxmx/pasteboard
 scoop install lazygit              # https://github.com/jesseduffield/lazygit
 scoop install oh-my-posh3          # https://github.com/jandedobbeleer/oh-my-posh
