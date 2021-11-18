@@ -118,6 +118,8 @@ scoop install screentogif          # https://github.com/NickeManarin/ScreenToGif
 scoop install quicklook            # https://github.com/QL-Win/QuickLook
 scoop install shadowsocks          # https://github.com/shadowsocks/shadowsocks-windows
 scoop install v2rayn               # https://github.com/2dust/v2rayN
+scoop bucket add helbing https://github.com/helbing/scoop-bucket
+scoop install picgo                # https://github.com/PicGo/Awesome-PicGo
 scoop install xshell
 scoop install xftp
 ```
