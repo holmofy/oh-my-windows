@@ -57,12 +57,12 @@ scoop install windows-terminal
 **app bucket**
 
 ```sh
-scoop bucket add extras            # https://github.com/lukesampson/scoop-extras
+scoop bucket add main              # https://github.com/ScoopInstaller/Main
+scoop bucket add extras            # https://github.com/ScoopInstaller/Extras
 scoop bucket add versions          # https://github.com/scoopinstaller/versions
 scoop bucket add java              # https://github.com/scoopinstaller/Java
 scoop bucket add jetbrains         # https://github.com/Ash258/Scoop-JetBrains
 scoop bucket add nonportable       # https://github.com/TheRandomLabs/scoop-nonportable
-scoop bucket add nightlies         # https://github.com/scoopinstaller/nightlies
 scoop bucket add nerd-fonts        # https://github.com/matthewjberger/scoop-nerd-fonts
 scoop bucket add apps https://gitee.com/kkzzhizhou/scoop-apps
 scoop bucket add dorado https://github.com/chawyehsu/dorado
