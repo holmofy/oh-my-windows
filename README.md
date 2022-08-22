@@ -82,6 +82,7 @@ scoop install posh-git             # https://github.com/dahlbyk/posh-git
 scoop install tldr                 # Interactive tldr pages
 scoop install cht                  # cli cheat sheet
 scoop install docker               # Docker容器
+scoop install ntop                 # https://github.com/gsass1/NTop
 # java
 scoop install adopt8-hotspot       # adopt-jdk
 scoop install jmc                  # java mission control
