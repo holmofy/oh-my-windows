@@ -65,6 +65,7 @@ scoop bucket add nonportable       # https://github.com/TheRandomLabs/scoop-nonp
 scoop bucket add nightlies         # https://github.com/scoopinstaller/nightlies
 scoop bucket add nerd-fonts        # https://github.com/matthewjberger/scoop-nerd-fonts
 scoop bucket add apps https://gitee.com/kkzzhizhou/scoop-apps
+scoop bucket add dorado https://github.com/chawyehsu/dorado
 ```
 
 > https://scoop.netlify.app/buckets/
