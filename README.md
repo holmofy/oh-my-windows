@@ -15,6 +15,9 @@ Windows Developer
 推荐用scoop或choco
 
 ### install scoop
+
+> refs: [Scoop installation](https://github.com/ScoopInstaller/Scoop?tab=readme-ov-file#installation)
+
 ```sh
 # Configure Scoop to install global programs to a Custom Directory by changing SCOOP_GLOBAL
 $env:SCOOP_GLOBAL='F:\GlobalScoopApps'
