@@ -134,3 +134,8 @@ scoop install xftp
 **other tools**
 https://github.com/RReverser/WiFi-Password
 
+## WSL
+
+[WSL是微软为Windows设计开发的Linux内核](https://github.com/microsoft/WSL2-Linux-Kernel)，非常适合在Windows进行Linux应用的开发，VSCode也能直接连接WSL进行开发。
+
+WSL的介绍与最佳实践可以参考：https://github.com/sirredbeard/Awesome-WSL
