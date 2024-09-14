@@ -142,4 +142,6 @@ WSL的介绍与最佳实践可以参考：https://github.com/sirredbeard/Awesome
 
 ## AutoComplete
 
+微软开发的智能补全工具，可以与各种Shell结合
+
 * https://github.com/microsoft/inshellisense
